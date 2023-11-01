@@ -21,3 +21,9 @@
 .*.sw?
 /.yardoc/
 /Guardfile
+
+bin/rake
+
+bin/rspec
+
+convert_report.txt
